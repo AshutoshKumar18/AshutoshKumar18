@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Ashutosh Kumar Ranjan</h1>
-<h3 align="center">Frontend Developer | Machine Learning Engineer | Tech Explorer</h3>
+<h3 align="center">Machine Learning Engineer | Frontend Developer | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashutoshkumar18&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -11,7 +11,7 @@
 🌱 A tech-driven problem solver passionate about building things that matter.<br>
 💻 I specialize in crafting **responsive UIs**, creating **intelligent ML solutions**, and experimenting with **vision‑based systems**.<br>
 🛠️ Whether it's a browser or a Jupyter notebook, I enjoy working on meaningful projects that challenge me.<br>
-📩 Reach me at: **ashu627486@gmail.com**
+📩 Reach me at: **ashutosh.ranjan.ds@gmail.com**
 
 ---
 
@@ -19,7 +19,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ashutoshkumarranjan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshkumarranjan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%2300599C.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashutoshkr_7)
-[![HackerRank 5★](https://img.shields.io/badge/HackerRank-★★★★★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashutoshranjan7)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★-00754A?style=for-the-badge&labelColor=2C2C2C&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashutoshranjan7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ashutoshranjan_7)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ashutosh_ranjan206)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v7jZjtYHc3)
