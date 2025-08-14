@@ -16,13 +16,14 @@
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ashutoshkumarranjan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshkumarranjan)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%2300599C.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashutoshkr_7)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★-00754A?style=for-the-badge&labelColor=2C2C2C&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashutoshranjan7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ashutoshranjan_7)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ashutosh_ranjan206)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v7jZjtYHc3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshkumar18)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.ranjan.ds@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ashutoshkumarranjan.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://www.leetcode.com/ashutoshranjan_7)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/ashutoshkr_7)
+[![HackerRank 5★](https://img.shields.io/badge/HackerRank-5★-2EC866?&logo=hackerrank&logoColor=white&labelColor=2EC866&color=FFD700)](https://www.hackerrank.com/profile/ashutoshranjan7)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ashutosh_ranjan206)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white)](https://discord.gg/v7jZjtYHc3)
 
 ---
 
@@ -60,11 +61,21 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar18&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkumar18&layout=compact&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshkumar18&theme=highcontrast&hide_border=true" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar18&show_icons=true&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&hide_border=true&border_radius=10" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkumar18&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF&hide_border=true&border_radius=10" width="48%" height="200px" />
+
+<br><br>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoshkumar18&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&hide_border=true&border_radius=10" />
+
 </div>
+
+
 
 ---
 
