@@ -11,7 +11,6 @@
 🌱 A tech-driven problem solver passionate about building things that matter.<br>
 💻 I specialize in crafting **responsive UIs**, creating **intelligent ML solutions**, and experimenting with **vision‑based systems**.<br>
 🛠️ Whether it's a browser or a Jupyter notebook, I enjoy working on meaningful projects that challenge me.<br>
-📩 Reach me at: **ashutosh.ranjan.ds@gmail.com**
 
 ---
 
